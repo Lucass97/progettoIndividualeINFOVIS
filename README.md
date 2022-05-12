@@ -1,4 +1,5 @@
-##' Progetto individuale per il corso di Visualizzazione delle Informazioni (2020/2021) Roma Tre
+# Progetto individuale per il corso di Visualizzazione delle Informazioni (2020/2021) Roma Tre
+
 Autore: *Luca Gregori*
 
 ![demo](./demo.gif)
