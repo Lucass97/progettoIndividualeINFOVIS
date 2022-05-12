@@ -10,7 +10,7 @@ Crea un file json con dei dati multivariati: ci sono 10 data-cases e ogni data-c
 ### Getting Started
 Per far eseguire un server utilizzando python (versione 3) utilizzare il seguente comando:
 ```
-python -m http.server 9000
+python3 -m http.server 9000
 ```
 È possibile visualizzare la demo al seguente url: http://localhost:9000/
 
